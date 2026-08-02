@@ -109,7 +109,8 @@ class USCIS:
             97: "Why does the flag have 50 stars?",
             98: "What is the name of the national anthem?",
             99: "When do we celebrate Independence Day?",
-            100: "Name two national U.S. holidays."
+            100: "Name two national U.S. holidays.",
+            101: "Information goes here..."
         }
 
         self.answers = {
